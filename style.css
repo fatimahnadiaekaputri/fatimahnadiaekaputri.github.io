@@ -1,0 +1,169 @@
+body {
+    margin:0;
+}
+
+header {
+    background-color: #522E26;
+    height:75px;
+    color: white;
+    width:100%;
+    position:fixed;
+    top:0;
+    z-index:10;
+    opacity:0.9;
+}
+
+.title-header {
+    float: left;
+    padding: 5px 40px;
+    font-size: 18px;
+    color: white;
+    font-family:'Poppins', sans-serif;
+    text-align:center;
+}
+
+.top-cover {
+  padding:180px 0 200px 0;
+  background-image: url(https://i.postimg.cc/vHqj651N/Get-to-know-more-1.gif);
+  background-size:cover;
+  height:350px;
+}
+
+.list-header li {
+    float: right;
+    list-style: none;
+    padding: 10px 20px;
+    font-size: 15px;
+    color: white;
+    font-family:'Poppins', sans-serif;
+}
+
+.list-header li:hover {
+   background-color:#522E26;
+    opacity:0.5;
+}
+
+
+.list-header {
+    margin-right: 35px;
+}
+
+.list-header a {
+    text-decoration:none;
+    color:white;
+}
+
+.title-header {
+    float: left;
+}
+
+.about {
+    float:left;
+    width:50%;
+    margin-bottom:75px;
+}
+
+img {
+    margin-left:350px;
+}
+
+.title {
+    margin-bottom:50px;
+    font-family: 'Caveat', cursive;
+    font-size:40px;
+    color:#522E26;
+    text-align:center;
+}
+
+.photo-me {
+    display:inline-block;
+}
+
+.text-about-me {
+    text-align: center;
+    display:inline-block;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom:75px;
+    margin-right:250px;
+}
+
+.title-content {
+    font-family: 'Caveat', cursive;
+    font-size:40px;
+    color:#522E26;
+    text-align:center;
+}
+
+.bottom-content {
+    float:left;
+    width:50%;
+}
+
+
+.text {
+    display:inline-block;
+    text-align:center;
+    width:100%;
+    font-family: 'Poppins', sans-serif;
+}
+
+.text li {
+    list-style:none;
+    padding:5px 15px;
+}
+
+
+.organization {
+    font-family: 'Caveat', cursive;
+    font-size:40px;
+    color:#522E26;
+    float:left;
+    text-align:center;
+    width:100%;
+    
+}
+
+.organization-content {
+    margin-bottom:200px;
+}
+
+footer {
+    background-color: #522E26;
+    height:75px;
+    color: white;
+    width:100%;
+    margin-bottom:0;
+}
+
+.social-media li {
+    float:right;
+    padding-top:25px;
+    padding-right:30px;
+    list-style:none;
+    width:auto;
+}
+
+.icon {
+    font-family: 'Poppins', sans-serif;
+    color:white;
+    text-align:center;
+
+}
+
+.social-media a {
+       text-decoration:none;
+}
+
+.fab {
+    margin-right:5px;
+}
+
+
+.contacts {
+    float:left;
+    font-family: 'Caveat', cursive;
+    font-size:40px;
+    color:white;
+    padding-top:15px;
+    padding-left:30px;
+}

@@ -1,4 +1,4 @@
-@media all and (max-width:1000px) {
+@media all and (max-width:670px) {
     .top-cover {
         width:auto;
         padding:0;
@@ -24,20 +24,3 @@
         display:none;
     }
 }
-
-@media all and (max-width:670px) {
-    .social-media li {
-        display:none;
-    }
-    
-    .list-header li {
-        display:none;
-    }
-    
-    img {
-        padding:0;
-        margin:0;
-        width:50%;
-    }
-}
-

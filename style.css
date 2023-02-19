@@ -167,3 +167,13 @@ footer {
     padding-top:15px;
     padding-left:30px;
 }
+
+.social-media {
+    font-size:23px;
+    text-align:center;
+}
+
+.fab:hover {
+    transform:scale(1.5);
+}
+

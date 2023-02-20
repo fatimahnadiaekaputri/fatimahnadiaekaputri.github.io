@@ -22,13 +22,6 @@ header {
     text-align:center;
 }
 
-.top-cover {
-  padding:180px 0 200px 0;
-  background-image: url(https://i.postimg.cc/vHqj651N/Get-to-know-more-1.gif);
-  background-size:cover;
-  height:350px;
-}
-
 .list-header li {
     float: right;
     list-style: none;
